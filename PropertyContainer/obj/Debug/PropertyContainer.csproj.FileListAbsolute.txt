@@ -1,0 +1,8 @@
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\bin\Debug\PropertyContainer.exe.config
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\bin\Debug\PropertyContainer.exe
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\bin\Debug\PropertyContainer.pdb
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\obj\Debug\PropertyContainer.csproj.AssemblyReference.cache
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\obj\Debug\PropertyContainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\obj\Debug\PropertyContainer.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\obj\Debug\PropertyContainer.exe
+C:\Users\s.molaee\source\repos\PropertyContainer\PropertyContainer\obj\Debug\PropertyContainer.pdb
